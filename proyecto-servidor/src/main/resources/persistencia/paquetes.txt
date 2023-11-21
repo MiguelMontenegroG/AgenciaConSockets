@@ -1,0 +1,9 @@
+
+ds;10;[s];1000000;3;2023-11-16T00:00
+
+khk;90;[kjh];80.0;9;2023-11-22T00:00;gfd
+aracataca;3;[2x1];3333.0;33;2023-11-22T00:00;porqueCafe
+puta;98;[gkj];79.0;890;2023-11-22T00:00;porqueCafe,gfd,gcd
+jh;98;[gj];89.0;98;2023-11-21T00:00;porqueCafe,parqueCafe
+jkl;89;[jkhjkh];89.0;9080;2023-11-22T00:00;porqueCafe,parqueCafe,gfd
+ukumary;3;[3x2];3222.0;3;2023-11-21T00:00;gfd,gcd

@@ -1,0 +1,11 @@
+o,o,miguel,miguela.montenegrog@uqvirtual.edu.co,o,o
+usuario2,contrasena2
+mario,miau
+a,a,a,a,a,a
+hola,jaja,a,a,a,a
+x,x,x,x,x,x
+y,y,y,y,y,y
+x,x,xx,miguela.montenegrog@uqvirtual.edu.co,x,
+a,a,a,miguela.montenegrog@uqvirtual.edu.co,a,a
+o,o,o,miguela.montenegrog@uqvirtual.edu.co,o,o
+Camilo,123,Juan Camilo,juanc.valbuenab@uqvirtual.edu.co,789,si
